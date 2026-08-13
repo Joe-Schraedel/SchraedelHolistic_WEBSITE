@@ -15,7 +15,7 @@ const headingFont = Playfair_Display({
 export const metadata: Metadata = {
   title: "Schraedel Holistic Chiropractic",
   description:
-    "Skillful precise Chiropractic correction of health robbing spinal and nervous system interference.",
+    "Modern, patient-first chiropractic care with low-friction scheduling and personalized treatment plans.",
 };
 
 export default function RootLayout({
